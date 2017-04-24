@@ -1,0 +1,7 @@
+[package]
+name = "p4rust"
+version = "0.1.0"
+authors = ["Donatien Rabiller <rabiller.donatien@hotmail.fr>"]
+
+[dependencies]
+itertools = "0.6.0"
